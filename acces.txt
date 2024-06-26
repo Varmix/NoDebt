@@ -1,0 +1,7 @@
+Utilisateur 1 :
+courriel : toto.laps@yahoo.fr
+mot de passe : 12
+
+Utilisateur 2 :
+courriel : roger.dupont@test.be
+mot de passe : 12
